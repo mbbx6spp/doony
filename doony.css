@@ -575,7 +575,7 @@ textarea
 #tasks {
     margin-top: 5px;
     font-size: 14px;
-    margin-right: 10px;
+    margin-right: 5px;
     padding-left: 0;
 }
 
@@ -592,7 +592,7 @@ textarea
 }
 
 .task a:nth-child(n+1) {
-    padding: 5px 5px 5px 0;
+    padding: 2px 2px 2px 0;
     display: inline-block;
 }
 
