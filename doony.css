@@ -569,13 +569,13 @@ textarea
 
 /******************* side panel styles ***********************/
 #side-panel {
-    padding-left: 15px;
+    padding-left: 10px;
 }
 
 #tasks {
     margin-top: 5px;
     font-size: 14px;
-    margin-right: 20px;
+    margin-right: 10px;
     padding-left: 0;
 }
 
@@ -592,7 +592,7 @@ textarea
 }
 
 .task a:nth-child(n+1) {
-    padding: 5px 10px 5px 0;
+    padding: 5px 5px 5px 0;
     display: inline-block;
 }
 
