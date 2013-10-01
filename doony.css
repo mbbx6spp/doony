@@ -573,7 +573,7 @@ textarea
 }
 
 #tasks {
-    margin-top: 5px;
+    margin-top: 15px;
     font-size: 14px;
     margin-right: 5px;
     padding-left: 0;
@@ -592,7 +592,7 @@ textarea
 }
 
 .task a:nth-child(n+1) {
-    padding: 2px 2px 2px 0;
+    padding: 5px 2px 4px 0;
     display: inline-block;
 }
 
@@ -779,7 +779,7 @@ a.yuimenulabel, a.yuimenuitemlabel,
 
 /** mbbx6spp's mods to "deskify" the theme */
 .yui-skin-sam #header #top-panel {
-  background: #666 url('https://rawgithub.com/mbbx6spp/doony/deskify/header-background.png') repeat-x center bottom;
+  background: #666 url('https://jenkins.deskdevops.com/userContent/doony/header-background.png') repeat-x center bottom;
   background-color: #666;
   color: #eee;
   height: 50px;
