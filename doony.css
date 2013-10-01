@@ -780,6 +780,7 @@ a.yuimenulabel, a.yuimenuitemlabel,
 /** mbbx6spp's mods to "deskify" the theme */
 .yui-skin-sam #header #top-panel {
   background: #666 url('https://rawgithub.com/mbbx6spp/doony/deskify/header-background.png') repeat-x center bottom;
+  background-color: #666;
   color: #eee;
   height: 50px;
   padding: 0;
